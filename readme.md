@@ -28,4 +28,5 @@ registros que deseamos, llamamos al Buffer Manager para que haga los reemplazos 
 usamos el metodo LRU.
 
 FRAMES utilizados: por defecto 3
+
 On-Disk File: Escogemos valores aleatorios de la tabla HASH(valores previamente ingresados)
