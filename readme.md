@@ -1,4 +1,8 @@
 # Sistema Gestor de Base de Datos
+# Integrantes:
+-Yamil Yonder Llampi Hancco
+-Evelyn Lizbeth Cusi Hancco
+-Angela Solange Sucso Choque
 
 # Instrucciones de Uso - Compilacion
 
@@ -21,7 +25,7 @@ c++11
 Como estructura de datos del Sistema de Base de Datos utilizamos una tabla HASH
 En ahi se va almacenando todos los registros que ingresamos, una vez ingresados todos los
 registros que deseamos, llamamos al Buffer Manager para que haga los reemplazos correspondientes
-usamos el metodo CLOCK.
+usamos el metodo LRU.
 
 FRAMES utilizados: por defecto 3
 On-Disk File: Escogemos valores aleatorios de la tabla HASH(valores previamente ingresados)
