@@ -7,7 +7,7 @@ g++ --version = 9.4.0
 version de c++:
 c++11
 
-Pasos:
+# Pasos:
 
 1. Compilar archivo: g++ -o eject main.cpp -std=c++11
 2. Ejecutar archivo: time ./eject
