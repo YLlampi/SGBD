@@ -1,8 +1,8 @@
 # Sistema Gestor de Base de Datos
 # Integrantes:
 1. Yamil Yonder Llampi Hancco
-2. Evelyn Lizbeth Cusi Hancco
-3. Angela Solange Sucso Choque
+2. Angela Solange Sucso Choque
+3. Evelyn Lizbeth Cusi Hancco
 
 # Instrucciones de Uso - Compilacion
 
